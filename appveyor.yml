@@ -16,10 +16,10 @@ environment:
   - PYVER: 27
     BITTNESS: 64
     COMPILER: mingw
-  - PYVER: 34
+  - PYVER: 36
     BITTNESS: 86
     COMPILER: mingw
-  - PYVER: 34
+  - PYVER: 36
     BITTNESS: 64
     COMPILER: mingw
 install:
